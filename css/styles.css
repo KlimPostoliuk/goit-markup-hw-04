@@ -427,7 +427,7 @@ border-top: 0;
 .footer-subject:last-child{
     margin-bottom: 0;
 }
-.img{
+img{
     display: block;
     width: 100%;
     height: auto;
